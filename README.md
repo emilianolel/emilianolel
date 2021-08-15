@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about everithing you want.
 - 📫 How to reach me: eherrera1331@gmail.com
 - ⚡ Fun fact: I always wanted to be Merlin from The Sword in the Stone :stuck_out_tongue_closed_eyes:.
+
+:astonished: My Github Stats 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilianolel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
