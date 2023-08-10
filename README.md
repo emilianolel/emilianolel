@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on building my way to become a fullstack data scientist.
+- 🔭 I’m currently working on building my way to become a fullstack data guy.
 - 🌱 I’m currently learning Network Theory, Artificial Neural Networks, Machine Learning and some of String Theory :moyai:.
 - 👯 I’m looking to collaborate on neo-vim development.
 - 🤔 I’m looking for help with upgrading my programming skills :computer:.
